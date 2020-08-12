@@ -1,3 +1,10 @@
 #letter {
   display: none;
 }
+
+.group-standard {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px gray solid;
+  padding: 30px;
+}
